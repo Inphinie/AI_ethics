@@ -71,7 +71,7 @@ Pour calculer le score $MAC$, nous projetons chaque action sur 7 vecteurs univer
 
 ### 💻 Implémentation (Pseudo-Code)
 * **[`éthique4 (1).txt`](./éthique4%20(1).txt)** : Contient la logique algorithmique de l'**Ethical Gate** et du sélecteur d'actions.
-* **[`Éthique IA _ Score Moyen Responsable (1).txt`](./Éthique%20IA%20_%20Score%20Moyen%20Responsable%20.txt)** : Détails sur le calcul du Lambda de Langton pour détecter la sclérose systémique.
+* **[`Éthique IA _ Score Moyen Responsable (1).txt`](./docs/Éthique IA _ Score Moyen Responsable (1).txt)** : Détails sur le calcul du Lambda de Langton pour détecter la sclérose systémique.
 
 ---
 
